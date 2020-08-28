@@ -23,12 +23,7 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    color: rgb(58, 0, 112);
-    border: 2px double #d0d0d0;
-    border-width:10%;
-    border-radius: 10px 5px 10px 5px;
-    background-color: #8a6a6a;
-}
+ }
 
 img.lado {
     float: right;
